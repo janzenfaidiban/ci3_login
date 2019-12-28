@@ -1,5 +1,10 @@
 # ci3_login
-A simple login using codeigniter 3
+A simple login system using codeigniter 3
 
 # Database
-### Database Name
+> Database Name : ci3_login
+
+# CI Configuration
+#### application/config/autoload.php
+> $autoload['libraries'] = array('', 'database','form_validation','');
+
