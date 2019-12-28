@@ -17,7 +17,7 @@ A simple login system using codeigniter 3
 > $config['encryption_key'] = '2l3k4j2l34j2l34kj234j2l3k4j234l';
 
 # .htaccess
-> Add a ".htaccess" file in the main folder : ci3_login/.htaccess and write these code on it<br>
+Add a ".htaccess" file in the main folder : ci3_login/.htaccess and write these code on it<br>
 ` RewriteEngine on ` <br>
 ` RewriteCond %{REQUEST_FILENAME} !-f ` <br>
 ` RewriteCond %{REQUEST_FILENAME} !-d ` <br>
