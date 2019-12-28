@@ -63,5 +63,8 @@ Add a ".htaccess" file in the main folder : ci3_login/.htaccess and write these 
 > Before : http://localhost/ci3_login/index.php/login <br>
 After : http://localhost/ci3_login/login
 
+# User
+> Email : admin@login.com <br>
+Password : sacode
 
 ![GitHub Logo](/img/prevew_main_page.jpg)
