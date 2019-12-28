@@ -1,6 +1,21 @@
 # ci3_login
 A simple login system using codeigniter 3
 
+# Download Codeigniter 3 
+> https://codeigniter.com/en/download
+
+# Controller
+Add some files in the controllers' folder
+> ` application/controllers/login.php ` <br>
+` application/controllers/login_success.php `
+
+# Models
+> ` application/models/login_model.php `
+
+# Views
+> ` application/views/login_page.php ` <br>
+> ` application/views/login_sucess.php ` 
+
 # Database
 > Database Name : ci3_login <br>
 Table Name : user <br>
@@ -12,10 +27,6 @@ Table Structure : <br>
 | full_name      | varchar      |   40 |
 | email | varchar      |    50 |
 | password | varchar      |    50 |
-
-
-
-
 
 # CI Configuration
 #### application/config/database.php
