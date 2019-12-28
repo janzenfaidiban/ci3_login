@@ -64,5 +64,5 @@ Add a ".htaccess" file in the main folder : ci3_login/.htaccess and write these 
 After : http://localhost/ci3_login/login
 
 
-![GitHub Logo](/img/login_main_page.jpg)
+![GitHub Logo](/img/prevew_main_page.jpg)
 Format: ![Alt Text](url)
