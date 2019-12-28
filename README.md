@@ -17,6 +17,10 @@ Add some files in the controllers' folder
 > ` application/views/login_sucess.php ` 
 
 # Database
+#### Xampp
+> https://www.apachefriends.org/download.html
+
+#### Database Configuration 
 > Database Name : ci3_login <br>
 Table Name : user <br>
 Table Structure : <br>
@@ -60,3 +64,5 @@ Add a ".htaccess" file in the main folder : ci3_login/.htaccess and write these 
 After : http://localhost/ci3_login/login
 
 
+![GitHub Logo](/img/login_main_page.jpg)
+Format: ![Alt Text](url)
