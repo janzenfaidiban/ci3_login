@@ -65,4 +65,3 @@ After : http://localhost/ci3_login/login
 
 
 ![GitHub Logo](/img/prevew_main_page.jpg)
-Format: ![Alt Text](url)
