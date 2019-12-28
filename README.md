@@ -4,7 +4,7 @@ A simple login system using codeigniter 3
 # Download Codeigniter 3 
 > https://codeigniter.com/en/download
 
-# Controller
+# Controller Configuration
 Add some files in the controllers' folder
 > ` application/controllers/login.php ` <br>
 ` application/controllers/login_success.php `
